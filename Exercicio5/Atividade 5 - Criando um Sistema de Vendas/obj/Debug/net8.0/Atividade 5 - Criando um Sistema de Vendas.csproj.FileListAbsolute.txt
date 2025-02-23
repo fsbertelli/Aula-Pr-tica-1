@@ -1,0 +1,14 @@
+C:\Users\Felipe\source\repos\21-02-2025\Atividade 5 - Criando um Sistema de Vendas\Atividade 5 - Criando um Sistema de Vendas\bin\Debug\net8.0\Atividade 5 - Criando um Sistema de Vendas.exe
+C:\Users\Felipe\source\repos\21-02-2025\Atividade 5 - Criando um Sistema de Vendas\Atividade 5 - Criando um Sistema de Vendas\bin\Debug\net8.0\Atividade 5 - Criando um Sistema de Vendas.deps.json
+C:\Users\Felipe\source\repos\21-02-2025\Atividade 5 - Criando um Sistema de Vendas\Atividade 5 - Criando um Sistema de Vendas\bin\Debug\net8.0\Atividade 5 - Criando um Sistema de Vendas.runtimeconfig.json
+C:\Users\Felipe\source\repos\21-02-2025\Atividade 5 - Criando um Sistema de Vendas\Atividade 5 - Criando um Sistema de Vendas\bin\Debug\net8.0\Atividade 5 - Criando um Sistema de Vendas.dll
+C:\Users\Felipe\source\repos\21-02-2025\Atividade 5 - Criando um Sistema de Vendas\Atividade 5 - Criando um Sistema de Vendas\bin\Debug\net8.0\Atividade 5 - Criando um Sistema de Vendas.pdb
+C:\Users\Felipe\source\repos\21-02-2025\Atividade 5 - Criando um Sistema de Vendas\Atividade 5 - Criando um Sistema de Vendas\obj\Debug\net8.0\Atividade 5 - Criando um Sistema de Vendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\source\repos\21-02-2025\Atividade 5 - Criando um Sistema de Vendas\Atividade 5 - Criando um Sistema de Vendas\obj\Debug\net8.0\Atividade 5 - Criando um Sistema de Vendas.AssemblyInfoInputs.cache
+C:\Users\Felipe\source\repos\21-02-2025\Atividade 5 - Criando um Sistema de Vendas\Atividade 5 - Criando um Sistema de Vendas\obj\Debug\net8.0\Atividade 5 - Criando um Sistema de Vendas.AssemblyInfo.cs
+C:\Users\Felipe\source\repos\21-02-2025\Atividade 5 - Criando um Sistema de Vendas\Atividade 5 - Criando um Sistema de Vendas\obj\Debug\net8.0\Atividade 5 - Criando um Sistema de Vendas.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\21-02-2025\Atividade 5 - Criando um Sistema de Vendas\Atividade 5 - Criando um Sistema de Vendas\obj\Debug\net8.0\Atividade 5 - Criando um Sistema de Vendas.dll
+C:\Users\Felipe\source\repos\21-02-2025\Atividade 5 - Criando um Sistema de Vendas\Atividade 5 - Criando um Sistema de Vendas\obj\Debug\net8.0\refint\Atividade 5 - Criando um Sistema de Vendas.dll
+C:\Users\Felipe\source\repos\21-02-2025\Atividade 5 - Criando um Sistema de Vendas\Atividade 5 - Criando um Sistema de Vendas\obj\Debug\net8.0\Atividade 5 - Criando um Sistema de Vendas.pdb
+C:\Users\Felipe\source\repos\21-02-2025\Atividade 5 - Criando um Sistema de Vendas\Atividade 5 - Criando um Sistema de Vendas\obj\Debug\net8.0\Atividade 5 - Criando um Sistema de Vendas.genruntimeconfig.cache
+C:\Users\Felipe\source\repos\21-02-2025\Atividade 5 - Criando um Sistema de Vendas\Atividade 5 - Criando um Sistema de Vendas\obj\Debug\net8.0\ref\Atividade 5 - Criando um Sistema de Vendas.dll
