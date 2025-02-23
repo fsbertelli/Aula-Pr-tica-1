@@ -1,0 +1,14 @@
+C:\Users\Felipe\source\repos\21-02-2025\Exercicio1\Exercicio1\bin\Debug\net8.0\Exercicio1.exe
+C:\Users\Felipe\source\repos\21-02-2025\Exercicio1\Exercicio1\bin\Debug\net8.0\Exercicio1.deps.json
+C:\Users\Felipe\source\repos\21-02-2025\Exercicio1\Exercicio1\bin\Debug\net8.0\Exercicio1.runtimeconfig.json
+C:\Users\Felipe\source\repos\21-02-2025\Exercicio1\Exercicio1\bin\Debug\net8.0\Exercicio1.dll
+C:\Users\Felipe\source\repos\21-02-2025\Exercicio1\Exercicio1\bin\Debug\net8.0\Exercicio1.pdb
+C:\Users\Felipe\source\repos\21-02-2025\Exercicio1\Exercicio1\obj\Debug\net8.0\Exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\source\repos\21-02-2025\Exercicio1\Exercicio1\obj\Debug\net8.0\Exercicio1.AssemblyInfoInputs.cache
+C:\Users\Felipe\source\repos\21-02-2025\Exercicio1\Exercicio1\obj\Debug\net8.0\Exercicio1.AssemblyInfo.cs
+C:\Users\Felipe\source\repos\21-02-2025\Exercicio1\Exercicio1\obj\Debug\net8.0\Exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\21-02-2025\Exercicio1\Exercicio1\obj\Debug\net8.0\Exercicio1.dll
+C:\Users\Felipe\source\repos\21-02-2025\Exercicio1\Exercicio1\obj\Debug\net8.0\refint\Exercicio1.dll
+C:\Users\Felipe\source\repos\21-02-2025\Exercicio1\Exercicio1\obj\Debug\net8.0\Exercicio1.pdb
+C:\Users\Felipe\source\repos\21-02-2025\Exercicio1\Exercicio1\obj\Debug\net8.0\Exercicio1.genruntimeconfig.cache
+C:\Users\Felipe\source\repos\21-02-2025\Exercicio1\Exercicio1\obj\Debug\net8.0\ref\Exercicio1.dll

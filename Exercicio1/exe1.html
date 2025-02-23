@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exibição de Código - VS 2022</title>
+    <style>
+        body {
+            background-color: #1e1e1e;
+            color: #d4d4d4;
+            font-family: Consolas, "Courier New", monospace;
+            padding: 20px;
+        }
+        pre {
+            background-color: #252526;
+            padding: 15px;
+            border-radius: 5px;
+            overflow-x: auto;
+        }
+        .keyword { color: #569cd6; }
+        .class { color: #4ec9b0; }
+        .string { color: #d69d85; }
+        .comment { color: #6a9955; }
+        .method { color: #dcdcaa; }
+        .number { color: #b5cea8; }
+    </style>
+</head>
+<body>
+    <pre>
+<span class="keyword">using</span> System;
+<span class="keyword">class</span> <span class="class">Carro</span> <span class="comment">// classe Carro</span>
+{
+    <span class="keyword">public</span> <span class="keyword">string</span> marca; <span class="comment">// define atributo marca</span>
+    <span class="keyword">public</span> <span class="keyword">string</span> modelo; <span class="comment">// define atributo modelo</span>
+    <span class="keyword">public</span> <span class="keyword">int</span> ano; <span class="comment">// define atributo ano</span>
+
+    <span class="keyword">public</span> <span class="class">Carro</span>(<span class="keyword">string</span> marca, <span class="keyword">string</span> modelo, <span class="keyword">int</span> ano) <span class="comment">// instancia o construtor</span>
+    {
+        <span class="keyword">this</span>.marca = marca;
+        <span class="keyword">this</span>.modelo = modelo;
+        <span class="keyword">this</span>.ano = ano;
+    }
+    <span class="keyword">public void</span> <span class="method">ExibirInformacoes</span>() <span class="comment">// método que exibe as informações do carro</span>
+    {
+        Console.WriteLine($"Marca: <span class="string">{marca}</span> - Modelo: <span class="string">{modelo}</span> - Ano: <span class="number">{ano}</span>");
+    }
+}
+
+<span class="keyword">class</span> <span class="class">Program</span> <span class="comment">// classe principal</span>
+{
+    <span class="keyword">static void</span> Main() 
+    {
+        <span class="class">Carro</span> carro = <span class="keyword">new</span> <span class="class">Carro</span>(<span class="string">"Volkswagen"</span>, <span class="string">"Fusca"</span>, <span class="number">1972</span>);
+        carro.<span class="method">ExibirInformacoes</span>();
+    }
+}
+    </pre>
+</body>
+</html>
